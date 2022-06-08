@@ -1,4 +1,4 @@
-# wmctrlpy
+# xWindow-Controll-Python
 
 an easy way to use python an wmctrl to move winodws
 
