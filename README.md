@@ -1,8 +1,8 @@
 # wmctrlpy
 
-an easy way to use python an wmctrl to move winodws
+an easy way to use python and wmctrl to move winodws
 
-because wmctrl is wierd you can't get the active window
+because wmctrl is weird you can't get the active window
 
 get windows by name by using "getWindow"
     either matches to the excat name
