@@ -11,6 +11,7 @@ get windows by name by using "getWindow"
 get all windows by using getAllWindows
 
 a Window class has these values:
+
     id -> hexnumber as idenifier
     desktop -> -1 for "sticky" = on all desktops, enumeration of desktops starts at 0
     pid -> decimal id for windows that support it, else it is 0
