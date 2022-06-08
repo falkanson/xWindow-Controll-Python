@@ -44,3 +44,5 @@ and these methods:
 
     modify(how:str,arg1:str[,arg2:str])
         does the same thing but "how" spesifcies if you want to add/remove/toggle
+
+note: English is not my first language, sorry for spelling - do a pull request with correction if you want
